@@ -1,0 +1,58 @@
+{
+    "quiz": {
+        "title": "Tell Us Your Favorite Foods And We’ll Guess What Type Of Personality You Have",
+        "questions": [
+            {
+                "question": "Pick some food",
+                "variants": {
+                    "stern": "caesar salad",
+                    "funny": "nuggets",
+                    "outgoing": "burger",
+                    "shy": "chicken sandwich"
+                }               
+            },
+            {
+                "question": "Pick a healthy choice",
+                "variants": {
+                    "stern": "parfait",
+                    "funny": "pasta salad",
+                    "outgoing": "fruit",
+                    "shy": "salad"
+                }
+            },
+            {
+                "question": "Pick a movie snack",
+                "variants": {
+                    "stern": "caramel popcorn",
+                    "funny": "M&M’s",
+                    "outgoing": "ice cream",
+                    "shy": "traditional popcorn"
+                }
+            },
+            {
+                "question": "Pick a fast-food spot",
+                "variants": {
+                    "stern": "Wendy’s",
+                    "funny": "McDonald’s",
+                    "outgoing": "Burger King",
+                    "shy": "Dunkin’ Donuts"
+                }
+            },
+            {
+                "question": "Pick some more food",
+                "variants": {
+                    "stern": "pasta",
+                    "funny": "chicken",
+                    "outgoing": "sandwich",
+                    "shy": "pizza"
+                }
+            }
+        ],
+        "results": {
+            "stern": "You’re a very serious person!",
+            "funny": "You have a wicked sense of humour!",
+            "outgoing": "You’re a perfect mix of funny, chill, and intelligence!",
+            "shy": "You’re shy and reserved!"
+        }
+    }
+}
